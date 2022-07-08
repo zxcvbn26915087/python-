@@ -8,7 +8,7 @@ Created on Thu Aug 19 12:41:15 2021
 from selenium import webdriver
 from time import sleep
 from bs4 import BeautifulSoup
-import module_km_1_2 as m
+import 爬蟲_module as m
 
 pres={
       'profile.default_content_setting_values' : 
